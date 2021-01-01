@@ -5,6 +5,7 @@
 /public/css/app.css
 /bootstrap/cache
 /storage/*.key
+/storage/debugbar
 /storage/framework/cache
 /storage/framework/sessions
 /storage/framework/testing
